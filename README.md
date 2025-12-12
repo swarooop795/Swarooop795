@@ -7,9 +7,11 @@
   
   🔗 Linkedin : https://www.linkedin.com/in/swaroop-nairy-aa615526a
 - 😄 Pronouns : Swaroop Nairy
-- 👨‍🦱 Portfolio : https://github.com/swarooop795/My_Portfolio.git
+- 👨‍🦱 Portfolio :
   
-     📶 Live Link : https://melodious-sherbet-a664b4.netlify.app/
+  📂 Github Link : https://github.com/swarooop795/My_Portfolio.git
+  
+  📶 Live Link : https://melodious-sherbet-a664b4.netlify.app/
 - 📄 Resume : https://github.com/swarooop795/RESUME.git
 
 <!---
