@@ -9,7 +9,7 @@
 - 😄 Pronouns : Swaroop Nairy
 - 👨‍🦱 Portfolio : https://github.com/swarooop795/My_Portfolio.git
   
-     Live Link : https://admirable-frangollo-99908e.netlify.app/
+     Live Link : https://melodious-sherbet-a664b4.netlify.app/
 - 📄 Resume : https://github.com/swarooop795/RESUME.git
 
 <!---
