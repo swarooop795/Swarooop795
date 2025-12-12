@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swarooop795
+- 👋 Hi, I’m @Swaroopnairy795
 - 🐍 I’m interested in programming with Python 
 - 👩‍💻 I’m currently learning Web Development
 - 📫 How to reach me :
