@@ -13,6 +13,7 @@
   
   📶 Live Link : https://bespoke-cajeta-d7aafa.netlify.app/
 - 📄 Resume : https://github.com/swarooop795/RESUME.git
+- 📜 Internship Certificate : https://github.com/swarooop795/Internship-Certificate.git
 
 <!---
 swarooop795/swarooop795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
