@@ -3,7 +3,7 @@
 - 👩‍💻 I’m currently learning & working on Web Development
 - 📫 Contact me :
   
-  ✉️ Email : swaroopnairy@gmail.com,
+  ✉️ Email : swaroopnairy@gmail.com
   
   🔗 Linkedin : https://www.linkedin.com/in/swaroop-nairy-aa615526a
 - 😄 Pronouns : Swaroop Nairy
