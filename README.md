@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swaroopnairy795
 - 🐍 I’m interested in programming with Python 
-- 👩‍💻 I’m currently learning Web Development
+- 👩‍💻 I’m currently learning & Working on Web Development
 - 📫 How to reach me :
   
   ✉️ Email : swaroopnairy@gmail.com,
