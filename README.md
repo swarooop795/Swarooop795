@@ -115,7 +115,7 @@ Gained hands-on experience in full-stack web application development, including:
 * Frontend-backend integration
 * Feature implementation
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • REST APIs
+**Tech:** React.js • Node.js • Express.js • MongoDB • Material-UI
 
 **Certificate:** https://github.com/swarooop795/Internship-Certificate.git
 
