@@ -17,7 +17,8 @@ I enjoy transforming ideas into practical, user-focused applications and continu
 * 🔧 Hands-on experience with **REST APIs, authentication, database integration, and application development**
 * 🏆 **Runner-Up – Techvision-2K25** for the Digital Beedi Branch Management System
 * 📍 Based in **Karnataka, India**
-* 👨🏻‍💻 **Portfolio:** https://bespoke-cajeta-d7aafa.netlify.app/
+* 👨‍🦱 **Portfolio:** https://bespoke-cajeta-d7aafa.netlify.app
+* 👩‍💻 **Leet Profile:** https://leetcode.com/u/swaroopnairy
 
 ---
 
